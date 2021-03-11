@@ -1,0 +1,15 @@
+D:\Skola\P4AkaMaturitapico\Editor\Editor\bin\Debug\Editor.exe.config
+D:\Skola\P4AkaMaturitapico\Editor\Editor\bin\Debug\Editor.exe
+D:\Skola\P4AkaMaturitapico\Editor\Editor\bin\Debug\Editor.pdb
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\MainWindow.g.cs
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\App.g.cs
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor_MarkupCompile.cache
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor_MarkupCompile.lref
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\MainWindow.baml
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.g.resources
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.exe
+D:\Skola\P4AkaMaturitapico\Editor\Editor\obj\Debug\Editor.pdb
