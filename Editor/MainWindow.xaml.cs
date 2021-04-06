@@ -59,6 +59,21 @@ namespace Editor
             imgPhoto.Source = Array2DBMIConverter.ConvertWriteableBitmapToBitmapImage(fonda);
             fotka = Array2DBMIConverter.ConvertWriteableBitmapToBitmapImage(fonda);
         }
+
+        private void button_Copy1_Click(object sender, RoutedEventArgs e)
+        {
+            forto = Array2DBMIConverter.BitmapImageToArray2D(fotka);
+            for (int x = 0; x < forto.GetLength(0); x++)
+            {
+                for (int y = 0; y < forto.GetLength(1); y++)
+                {
+                    forto[x, y] += 10;
+                }
+            }
+            fonda = Array2DBMIConverter.Array2DToWriteableBitmap(forto, fotka);
+            imgPhoto.Source = Array2DBMIConverter.ConvertWriteableBitmapToBitmapImage(fonda);
+            fotka = Array2DBMIConverter.ConvertWriteableBitmapToBitmapImage(fonda);
+        }
     }
 
     static class Array2DBMIConverter
